@@ -193,6 +193,12 @@
 }
 
 @media only screen and (max-width: 658px) {
+  .bar.search {
+    padding-top: 30px;
+  }
+}
+
+@media only screen and (max-width: 658px) {
   .title {
     padding-top: 15px !important;
   }
@@ -201,6 +207,10 @@
 @media only screen and (max-width: 625px) {
   .title {
     padding-left: 10px !important;
+  }
+
+  .buttonHolder {
+    padding-left: 10px;
   }
 }
 
